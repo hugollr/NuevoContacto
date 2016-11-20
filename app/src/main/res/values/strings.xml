@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nuevo Contacto</string>
+    <string name="linea_simple">1</string>
+    <string name="linea_doble">2</string>
+
+    <string name="main_nombre">Nombre</string>
+    <string name="main_telefono">Teléfono</string>
+    <string name="main_email">E-mail</string>
+    <string name="main_descripcion">Descripción</string>
+    <string name="main_siguiente">Siguiente</string>
+
+    <string name="confirm_fecha">Fecha de nacimiento: </string>
+    <string name="confirm_telf">Telf: </string>
+    <string name="confirm_email">Email: </string>
+    <string name="confirm_editar">Editar Datos</string>
+</resources>

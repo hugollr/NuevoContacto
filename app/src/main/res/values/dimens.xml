@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <dimen name="confirm_text_size">16sp</dimen>
+    <dimen name="confirm_vertical_margin">20dp</dimen>
+    <dimen name="confirm_vertical_boton_margin">40dp</dimen>
+</resources>
